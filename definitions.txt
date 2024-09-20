@@ -1,0 +1,15 @@
+
+
+* load an image 
+
+* convert image to an array 
+
+* convert image array to blocks 
+    * extract pixels of a block into an array 
+    * chose a pixelization method:
+        * darkest pixel 
+        * brightest pixel 
+        * average pixels 
+
+
+* 
